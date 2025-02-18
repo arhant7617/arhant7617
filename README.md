@@ -5,7 +5,7 @@
 - 💞 I’m an avid learner interested in Web Development and Cloud Computing.
 - ✔ Looking forward to achieve something :)
 
-### ⚙ &nbsp;Sarhant7617 GitHub Analytics
+### ⚙ &nbsp;arhant7617 GitHub Analytics
 <p align="center">
 <a href="https://github.com/arhant7167">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arhant7617&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
