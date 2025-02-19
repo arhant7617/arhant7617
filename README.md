@@ -1,4 +1,4 @@
-<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm arhant7617</h2>
+<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Arhant</h2>
 
 - 🌱 I’m a B.Tech student at SRM Institute of Science and Technology, Chennai.
 - 👀 Languages/Tools I know are C, Python, Shell programming (bash), Java, C#, Python, kotlin, C++ and Gerrit.
